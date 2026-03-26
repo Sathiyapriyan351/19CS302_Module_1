@@ -12,7 +12,7 @@ To write a C program to read the age of a person and determine whether he is eli
 6. If age >= 21, print "Eligible". 
 7. If false, print " Not Eligible". 
 8. End.  
-
+..
 ## Program:
 ```
 #include<stdio.h> 
