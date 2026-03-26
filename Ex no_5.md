@@ -11,7 +11,7 @@ To write a C program to calculate the total marks, average, and percentage of ma
 5. Find total and average. 
 6. Print the result 
 7. End.    
-
+..
 ## Program:
 ```
 #include <stdio.h> 
