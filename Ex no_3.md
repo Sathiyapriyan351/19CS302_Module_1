@@ -11,7 +11,7 @@ To write a C program to find number of years based on principle,rate & simple in
 4. Read the value using scanf. 
 5. Calculate the number of years using the formula: 
 6. End .    
-
+..
 ## Program:
 ```
 #include <stdio.h> 
